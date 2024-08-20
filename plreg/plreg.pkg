@@ -1,5 +1,4 @@
-d 'DEA': Data envelopment analysis
+d 'plreg': Partial Linear regression model with Yatchew's weighting matrix Use plreg With STATA 18
 d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+f plreg.ado
+f plreg.hlp
