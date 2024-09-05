@@ -1,6 +1,8 @@
 # plreg
 Partial Linear regression model with Yatchew's weighting matrix Use plreg With STATA 18
 
+https://www.youtube.com/watch?v=SM01Aphwu7E
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
